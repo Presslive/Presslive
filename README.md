@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Bonjour à tous ! Je suis Diallo Abdoulaye 👋 </h1>
+<h3 align="center">🚀 Front-End Developer 🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 À propos de moi </h3>
 
-<!--
-**Presslive/Presslive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🤔 &nbsp; Explorer les nouvelles technologies et développe des sites web et des solutions rapides.
+  - 🎓 &nbsp; Étude en techniques de l’informatique.
+  - 💼 &nbsp; Je recherche un poste dans mon champ de compétences.
+  - 🌱 &nbsp; Apprend davantage sur le Front-End et le développement d'applications mobile.
+  - ✍️ &nbsp; Travailler sur l'interface UI/UX de ma startup.  
+</div> 
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3> 💻Langages et outils</h3>
+  <p>
+     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <p>
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Presslive](https://github.com/Presslive)
