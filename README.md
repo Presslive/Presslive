@@ -9,7 +9,7 @@
   - 🎓 &nbsp; Étude en techniques de l’informatique.
   - 💼 &nbsp; Je recherche un poste dans mon champ de compétences.
   - 🌱 &nbsp; Apprend davantage sur le Front-End et le développement d'applications mobile.
-  - ✍️ &nbsp; Travailler sur l'interface UI/UX de ma startup.  
+  - ✍️ &nbsp; Travaille sur l'interface UI/UX de ma startup.  
 </div> 
 </div>
 
