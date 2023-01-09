@@ -27,7 +27,7 @@
 <br/>
 
 #### Info
-- :paperclip: [Mon CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [Mon CV](https://github.com/Presslive/resumes/blob/main/Diallo_Abdoulaye1.pdf)
 - :email: lingodir@gmail.com
 
 
