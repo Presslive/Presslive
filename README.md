@@ -27,7 +27,7 @@
 <br/>
 
 #### Info
-- :paperclip: [Mon CV](https://github.com/Presslive/resumes/blob/main/Diallo_Abdoulaye1.pdf)
+- :paperclip: [Mon CV](https://drive.google.com/file/d/1FLj7ONIHyfP1SRTqfU_xCxMtSa80ST0F/view?usp=sharing)
 - :email: lingodir@gmail.com
 
 
