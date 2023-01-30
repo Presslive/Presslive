@@ -39,7 +39,7 @@
 <br/>
 
 #### Info
-- :paperclip: [Mon CV](https://drive.google.com/file/d/174Ixokq0NLBSjBwdFSzQWt8FtCIxndNY/view)
+- :paperclip: [Mon CV](https://drive.google.com/file/d/1s1_nPQtx9miprLGmmsCb69Un8o4zxIQ7/view?usp=sharing)
 - :email: lingodir@gmail.com
 
 
