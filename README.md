@@ -38,7 +38,7 @@
 <br/>
 
 #### Info
-- :paperclip: <a href="https://drive.google.com/file/d/1s1_nPQtx9miprLGmmsCb69Un8o4zxIQ7/view?usp=sharing">Mon CV</a>
-- :email: lingodir@gmail.com
+- :paperclip: <a href="https://drive.google.com/file/d/1sQA9ALMhteJ61Sd_og0_3jWdWytocIx3/view">Mon CV</a>
+- :email: dabdoulayet1@gmail.com
 
 ⭐️ From [Presslive](https://github.com/Presslive)
