@@ -1,44 +1,50 @@
-<h1 align="center">Bonjour à tous ! Je suis Diallo Abdoulaye 👋 </h1>
-<h3 align="center">🚀 Développeur d'application mobile / web 🚀</h3>
+<h1 align="center">Diallo Abdoulaye</h1>
+<h3 align="center">🚀 Full Stack Developer spécialisé en React/Next.js & Architecture Moderne 🚀</h3>
+
 <div>
-  <img width="35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+  <img width="35%" align="right" alt="Developer Illustration" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
   <div align="left"> 
-    <h3> 👨🏻‍💻 À propos de moi </h3>
+    <h3>👨🏻‍💻 Profil Professionnel</h3>
     <ul>
-      <li>🤔 &nbsp; Passionné par l'exploration des nouvelles technologies et le développement rapide d'applications et de sites web.</li>
-      <li>🎓 &nbsp; Diplômé en développement d'applications mobiles et en Techniques de l’informatique (2 ans complétés).</li>
-      <li>💼 &nbsp; À la recherche d'opportunités professionnelles dans mon domaine d'expertise.</li>
-      <li>🌱 &nbsp; En constante apprentissage du Full-Stack et du développement d'applications mobiles.</li>
-      <li>✍️ &nbsp; Impliqué dans l'optimisation de l'interface UI/UX pour ma startup.</li>
+      <li>💼 Développeur Full Stack chez 10Ruptiv - Solutions web et mobiles modernes</li>
+      <li>🔭 Expertise en React/Next.js, TypeScript et React Native</li>
+      <li>🌱 Spécialisation en architectures modernes et optimisation des performances</li>
+      <li>⚡ Double compétence en développement web et automatisation industrielle</li>
+      <li>📱 Focus sur les applications web/mobiles hautement performantes</li>
     </ul>
   </div> 
 </div>
 
-<div>
-  <h3> 💻 Langages et outils</h3>
-  <p>
-    <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-    <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-    <a href="https://nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png"/></a>
-    <a href="https://sass-lang.com/"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
-    <a href="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-    <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-    <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-    <a href="https://www.mysql.com/fr/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-    <a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-    <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-    <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-    <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-  </p>
-</div>
+<h3>💻 Expertise Technique</h3>
 
-<br/>
+**Technologies Front-End & Mobile**
+<p>
+  <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+  <a href="https://nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
+</p>
 
-#### Info
-- :paperclip: <a href="https://drive.google.com/file/d/1sQA9ALMhteJ61Sd_og0_3jWdWytocIx3/view">Mon CV</a>
-- :email: dabdoulayet1@gmail.com
+**Technologies Back-End & Base de données**
+<p>
+  <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+  <a href="https://expressjs.com/"><img src="https://img.icons8.com/color/48/000000/express.png"/></a>
+</p>
+
+**Environnement de Développement**
+<p>
+  <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+</p>
+
+### 📫 Contact Professionnel
+
+- LinkedIn: [Diallo Abdoulaye](https://linkedin.com/in/abdoulaye)
+- Email: dabdoulaye1@gmail.com
+- GitHub: [Presslive](https://github.com/Presslive)
 
 ⭐️ From [Presslive](https://github.com/Presslive)
