@@ -43,7 +43,7 @@
 
 ### 📫 Contact Professionnel
 
-- LinkedIn: [Diallo Abdoulaye]([https://linkedin.com/in/abdoulaye](https://www.linkedin.com/in/abdoulaye-diallo-8a32202b8/))
+- LinkedIn: [Diallo Abdoulaye](https://www.linkedin.com/in/abdoulaye-diallo-8a32202b8/)
 - Email: dabdoulaye1@gmail.com
 - GitHub: [Presslive](https://github.com/Presslive)
 
