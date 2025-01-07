@@ -46,5 +46,6 @@
 - LinkedIn: [Diallo Abdoulaye](https://www.linkedin.com/in/abdoulaye-diallo-8a32202b8/)
 - Email: dabdoulaye1@gmail.com
 - GitHub: [Presslive](https://github.com/Presslive)
+- [Portfolio](https://diallo-portfolio.netlify.app/)
 
 ⭐️ From [Presslive](https://github.com/Presslive)
